@@ -8,4 +8,4 @@
 
 ---
 
- ➡️ Updates will be done weekly.
+ ➡️ Updates will be done weekly
