@@ -15,4 +15,16 @@ contract RealEstate {
     function getProperty() external view returns () {}
 
     function getUserProperties() external view returns (Property[] memory) {}
+
+    //reviews functions
+
+    function addReview() external {}
+
+    function getProductReviews() external view returns (Review[] memory) {}
+
+    function getUserReviews() external view returns (Review[] memory) {}
+
+    function likeReview() external {}
+
+    function getHighestRatedProduct() external view returns (uint256) {}
 }
