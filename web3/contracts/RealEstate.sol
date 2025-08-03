@@ -16,6 +16,31 @@ contract RealEstate {
         string[] reviews;
     }
 
+    //mapping
+    mapping(uint256 => Property) private properties;
+    uint256 public propertyIndex;
+
+    //events
+    event PropertyListed(
+        uint256 indexed id,
+        address indexed owner,
+        uint256 price
+    );
+
+    event propertySold(
+        uint256 indexed id,
+        address indexed oldOwner,
+        address indexed newOwner,
+        uint256 price
+    );
+
+    event PropertyResold(
+        uint256 indexed id,
+        address indexed oldOwner,
+        address indexed newOwner,
+        uint256 price
+    )
+
     //function in contract
 
     function listProperty() external returns (uint256) {}
