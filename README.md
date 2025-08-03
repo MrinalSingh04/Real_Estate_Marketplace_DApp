@@ -1,4 +1,5 @@
-# Real_Estate_Marketplace_DApp
+## Real Estate Marketplace DApp
+
 🏠 A decentralized Real Estate Marketplace DApp built with Solidity, Next.js, and deployed on [your chosen blockchain]. Users can list, buy, and sell tokenized properties securely and transparently using smart contracts. 
 
 ---
@@ -7,4 +8,4 @@
 
 ---
 
-🚧 Work in Progress – updated every alternate day.
+⚠️ Work in Progress – updates will be done weekly.
