@@ -2,6 +2,20 @@
 pragma solidity ^0.8.9;
 
 contract RealEstate {
+    //state variables
+    struct Property {
+        uint256 productId;
+        address owner;
+        uint256 price;
+        string propertyTitle;
+        string category;
+        string images;
+        string propertyAddress;
+        string description;
+        address[] reviewers;
+        string[] reviews;
+    }
+
     //function in contract
 
     function listProperty() external returns (uint256) {}
