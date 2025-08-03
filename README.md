@@ -8,4 +8,4 @@
 
 ---
 
-⚠️ Work in Progress – updates will be done weekly.
+ ➡️ Updates will be done weekly.
