@@ -4,7 +4,7 @@
 
 ---
   
-🔧 Tech Stack: Solidity • Next.js • Ethers.js • Web3 • Hardhat • IPFS (optional)   
+🔧 Tech Stack: Solidity • Next.js • Ethers.js • Web3 • Hardhat • IPFS (optional)    
 
 ---
 
