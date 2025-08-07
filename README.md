@@ -6,6 +6,6 @@
   
 🔧 Tech Stack: Solidity • Next.js • Ethers.js • Web3 • Hardhat • IPFS (optional)    
 
----
+--- 
 
  ➡️ Updates will be done weekly 
